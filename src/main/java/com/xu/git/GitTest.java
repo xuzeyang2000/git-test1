@@ -15,5 +15,7 @@ public class GitTest {
         System.out.println("hello arr you not ok  in master?");
 
         System.out.println("push test");
+        System.out.println("web test   pull test");
+        
     }
 }
