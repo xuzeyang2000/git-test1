@@ -13,5 +13,7 @@ public class GitTest {
         System.out.println("hello arr you not ok  hot-fix?");
         System.out.println("hello arr you not ok  hot-fix   again?");
         System.out.println("hello arr you not ok  in master?");
+
+        System.out.println("push test");
     }
 }
