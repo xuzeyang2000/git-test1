@@ -16,6 +16,7 @@ public class GitTest {
 
         System.out.println("push test");
         System.out.println("web test   pull test");
-        
+        System.out.println("gitee push test");
+
     }
 }
