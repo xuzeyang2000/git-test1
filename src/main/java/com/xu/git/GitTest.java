@@ -10,5 +10,6 @@ package com.xu.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello ok?");
+        System.out.println("hello arr you ok?");
     }
 }
